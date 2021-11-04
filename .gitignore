@@ -1,6 +1,7 @@
-./reports
-./reports/*
-./screenshots/*
+reports/
+reports/*
+Screenshot/*
+node_modules/*
 
 # Logs
 logs
