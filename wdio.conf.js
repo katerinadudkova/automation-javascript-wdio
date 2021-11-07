@@ -6,7 +6,8 @@ exports.config = {
         './test/specs/**/*.e2e.js'
     ],
     exclude: [
-        './test/specs/examples/**/*'
+        './test/specs/examples/**/*',
+        './test/specs/cviceni/**/*',
     ],
     maxInstances: 10,
     capabilities: [{
